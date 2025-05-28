@@ -2,6 +2,8 @@
 
 > **DataSight** é um dashboard profissional de métricas web com recursos de análise em tempo real, insights de IA e customização avançada.
 
+[![GitHub repo](https://img.shields.io/badge/GitHub-DataSight-blue?style=flat-square&logo=github)](https://github.com/Jose-Lima2/DataSight---Dashboard)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=flat-square&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.5-38B2AC?style=flat-square&logo=tailwind-css)
 ![Recharts](https://img.shields.io/badge/Recharts-2.8.0-FF6B6B?style=flat-square)
@@ -181,3 +183,21 @@ Este projeto foi desenvolvido com foco em:
 **José Lima**
 - Dashboard desenvolvido com React, Tailwind CSS, Recharts e Lucide Icons
 - Projeto focado em experiência do usuário e performance
+
+### **Instalação**
+```bash
+# Clone o repositório
+git clone https://github.com/Jose-Lima2/DataSight---Dashboard.git
+
+# Entre no diretório
+cd DataSight---Dashboard
+
+# Instale as dependências
+npm install
+
+# Execute o projeto
+npm run dev
+
+# Acesse no navegador
+http://localhost:5173
+```
